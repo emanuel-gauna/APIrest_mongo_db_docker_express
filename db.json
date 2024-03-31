@@ -1,0 +1,70 @@
+{
+  "profesores": [
+    {
+      "nombre": "Emanuel",
+      "Apellido": "gauna",
+      "materia": [
+        {
+          "Matematicas": 95
+        },
+        {
+          "Ciencias": "A"
+        },
+        {
+          "Historia": "B+"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "nombre": "Yaki",
+      "Apellido": "graja",
+      "materia": [
+        {
+          "Pasteleria": 95
+        },
+        {
+          "Amor": "A"
+        }
+      ]
+    }
+  ],
+  "Alumnos": [
+    {
+      "Nombre": "Juan",
+      "Apellido": "gauna",
+      "Edad": 18
+    },
+    {
+      "Nombre": "Luis",
+      "Apellido": "Gonzalez",
+      "Edad": 20
+    },
+    {
+      "id": 1
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Programacion I",
+      "codigo": 34567,
+      "horario": [
+        "Lunes",
+        "Miercoles"
+      ]
+    },
+    {
+      "nombre": "Programacion II",
+      "codigo": 34568,
+      "horario": [
+        "Martes",
+        "Jueves"
+      ]
+    },
+    {
+      "nombre": "Programacion III",
+      "codigo": 34569,
+      "horario": "Viernes"
+    }
+  ]
+}
